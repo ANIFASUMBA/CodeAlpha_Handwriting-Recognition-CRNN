@@ -1,6 +1,5 @@
 # Handwritten Character & Word Recognition (CNN + CRNN)
 This repository contains a two-phase deep learning project built with PyTorch that transitions from single-character classification to full-word sequence recognition. It features interactive desktop canvas applications built with `tkinter`, allowing you to test the models live with your own mouse drawings.
-
 ---
 
 ## 🚀 Features & Project Structure
