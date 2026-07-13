@@ -14,7 +14,6 @@ This repository contains a two-phase deep learning project built with PyTorch th
 * **Interactive App:** `word_canvas_app.py` features an elongated canvas allowing you to write complete words out of the trained vocabulary pool (e.g., `CAT`, `DOG`, `FOX`, `BOX`, `HOME`, `WORK`).
 
 ---
-
 ## 🛠️ Tech Stack & Dependencies
 
 * **Language:** Python
