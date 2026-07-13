@@ -4,7 +4,7 @@ This repository contains a two-phase deep learning project built with PyTorch th
 
 ## 🚀 Features & Project Structure
 ### 1. Single-Character Recognition (`CNN`)
-* **Dataset:** Trained on the EMNIST (Balanced) dataset.
+* **Dataset:** Trained on the EMNIST (Balanced) dataset
 * **Architecture:** Traditional Convolutional Neural Network (CNN) featuring conv layers, max-pooling, and dropout for regularization.
 * **Interactive App:** `canvas_app.py` allows you to draw single letters (`A-Z`) or digits (`0-9`) on a $280\times280$ canvas for real-time inference.
 
