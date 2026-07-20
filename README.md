@@ -14,7 +14,6 @@ This repository contains a two-phase deep learning project built with PyTorch th
 
 ---
 ## 🛠️ Tech Stack & Dependencies
-
 * **Language:** Python
 * **Deep Learning Framework:** PyTorch & Torchvision
 * **GUI Framework:** Tkinter (Python Standard Library)
